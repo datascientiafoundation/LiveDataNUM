@@ -21,6 +21,9 @@ dataset_fields:
     form_template: form/category.html
     display_template: display/category.html
     datajson: category
+  - field_name: type
+    label: Resource Type
+    datajson: type
   - field_name: maintainer
     label: Maintainer
     datajson: contactPoint.fn
@@ -53,6 +56,14 @@ resource_fields:
       - kmz
       - shp
       - xml
+
+type_fields:
+  - field_name: title
+    label: Title
+  - field_name: description
+    label: Description
+  - field_name: logo
+    label: Logo
 
 organization_fields:
   - field_name: title
