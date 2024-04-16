@@ -8,7 +8,7 @@ resources:
     url: >-
       TODO
     format: json
-license: 'https://creativecommons.org/licenses/by/4.0/'
+license: 'https://creativecommons.org/licenses/by-sa/4.0/deed.en'
 category:
   - Digital University
 type:
