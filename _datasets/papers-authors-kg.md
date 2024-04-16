@@ -27,7 +27,7 @@ issue_datetime: unknown
 modification_datetime: '15/04/2024'
 reference_ontology: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/NUM-DU-ontology/">NUM-DU-ontology</a>
 reference_original_dataset: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/papers-authors/">Research papers authors NUM/a>
-reference_domain_language: unknown
+reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts NUM</a>
 generating_activity: DataScientia LiveData NUM Catalog Publication
 size: '8.5 MB'
 ---
