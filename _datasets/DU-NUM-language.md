@@ -6,7 +6,7 @@ notes: <span style='color:BlueViolet'>Language</span> - This is a language datas
 resources:
   - name: NUM Digital University Concepts NUM
     url: >-
-      TODO
+      https://github.com/kde-milab/LiveDataDREP/blob/main/Language%20Resources/DU-NUM%20Language.csv
     format: csv
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:

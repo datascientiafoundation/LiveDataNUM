@@ -6,7 +6,7 @@ notes: <span style='color:RoyalBlue'>Graph</span> - This is a Knowledge Graph, c
 resources:
   - name: Research papers authors NUM  - KG
     url: >-
-      TODO
+      https://raw.githubusercontent.com/kde-milab/LiveDataDREP/main/Data%20Resources/paper-authors-kg.ttl
     format: RDF-TTL
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
