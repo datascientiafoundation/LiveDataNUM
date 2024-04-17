@@ -10,7 +10,7 @@ resources:
     format: owl
     reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts NUM</a>
     size: '69.5 KB'
-license: 'https://creativecommons.org/licenses/by-sa/4.0/'
+license: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'
 category:
   - Digital University
 type:
