@@ -1,12 +1,12 @@
 ---
 schema: default
 title: Digital University NUM
-notes: <span style='color:MediumSeaGreen'>Ontology</span> - This ontology models and represents the information regarding the research activities of the National University of Mongolia (NUM), as well as its staff.
+notes: <span style='color:MediumSeaGreen'>Ontology</span> - This ontology models and represents the information regarding the research activities of the National University of Mongolia (NUM), as well as its staff. Downloading resources is only request basis by filling a simple form.
 organization: National University of Mongolia
 resources:
   - name: NUM DU ontology
     url: >-
-      TODO
+      https://forms.gle/kX9fRnmDPTQGukMs8
     format: owl
     reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts NUM</a>
     size: '69.5 KB'
