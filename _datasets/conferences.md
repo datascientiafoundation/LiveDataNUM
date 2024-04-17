@@ -2,7 +2,7 @@
 schema: default
 title: Conferences NUM
 organization: National University of Mongolia
-notes: <span style='color:salmon'>Dataset</span> - This is a cleaned and formatted dataset, created by the National University of Mongolia (NUM), that includes information about the research conferences that the NUM considers for reasearch publications.
+notes: <span style='color:salmon'>Data Source</span> - This is a cleaned and formatted dataset, created by the National University of Mongolia (NUM), that includes information about the research conferences that the NUM considers for reasearch publications.
 resources:
   - name: Conferences NUM
     url: >-
