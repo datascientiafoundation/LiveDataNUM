@@ -8,12 +8,14 @@ resources:
     url: >-
       TODO
     format: owl
+    reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts NUM</a>
+    size: '69.5 KB'
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Digital University
 type:
   - Knowledge
-size: '69.5 KB'
+
 keyword: 'digital university, NUM'
 maintainer: Amarsanaa Ganbold
 maintainer_email: amarsanaag@num.edu.mn
@@ -25,8 +27,7 @@ validator: Simone Bocca
 keyword: 'digital university, research, NUM'
 domain: National University of Mongolia
 language: English, Mongolian
-issue_datetime: unknown
 modification_datetime: '15/04/2024'
-reference_domain_language: unknown
+
 generating_activity: DataScientia LiveData NUM Catalog Publication
 ---

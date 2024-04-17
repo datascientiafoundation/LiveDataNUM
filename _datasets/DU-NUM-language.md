@@ -8,6 +8,8 @@ resources:
     url: >-
       https://github.com/kde-milab/LiveDataDREP/blob/main/Language%20Resources/DU-NUM%20Language.csv
     format: csv
+    modification_datetime: '15/04/2024'
+    size: '12.9 KB'
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Digital University
@@ -23,8 +25,5 @@ validator: Simone Bocca
 keyword: 'words, concepts, university'
 domain: National University of Mongolia
 language: English, Mongolian
-issue_datetime: unknown
-modification_datetime: '15/04/2024'
 generating_activity: DataScientia LiveData NUM Catalog Publication
-size: '12.9 KB'
 ---
