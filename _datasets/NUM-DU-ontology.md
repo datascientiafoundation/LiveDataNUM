@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Digital Univerisity NUM
+title: Digital University NUM
 notes: <span style='color:MediumSeaGreen'>Ontology</span> - This ontology models and represents the information regarding the research activities of the National University of Mongolia (NUM), as well as its staff.
 organization: National University of Mongolia
 resources:
