@@ -2,7 +2,7 @@
 schema: default
 title: Research papers NUM
 organization: National University of Mongolia
-notes: <span style='color:salmon'>Dataset</span> - These cleaned and formatted datasets, created by the National University of Mongolia (NUM), include information about the research papers published by the National University of Mongolia, and their authors.
+notes: <span style='color:salmon'>Data Source</span> - These cleaned and formatted datasets, created by the National University of Mongolia (NUM), include information about the research papers published by the National University of Mongolia, and their authors.
 
 resources:
   - name: NUM papers
