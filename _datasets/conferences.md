@@ -12,7 +12,7 @@ license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Digital University
 type:
-  - Dataset
+  - Data Source
 maintainer: Amarsanaa Ganbold
 maintainer_email: amarsanaag@num.edu.mn
 creator: Amarsanaa Ganbold
