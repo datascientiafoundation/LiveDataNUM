@@ -2,7 +2,7 @@
 schema: default
 title: Courses NUM - KG
 organization: National University of Mongolia
-notes: <span style='color:RoyalBlue'>Graph</span> - This is a Knowledge Graph, created by the National University of Mongolia (NUM), that includes information about the research journals that the NUM considers for reasearch publications.
+notes: <span style='color:RoyalBlue'>Graph</span> - This is a Knowledge Graph, created by the National University of Mongolia (NUM), that includes information about the educational courses offered by the NUM.
 resources:
   - name: Courses NUM - KG
     url: >-
@@ -12,7 +12,7 @@ resources:
     reference_ontology: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/NUM-DU-ontology/">NUM-DU-ontology</a>
     reference_original_dataset: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/courses/">Courses NUM</a>
     reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts NUM</a>
-    size: '4.0 MB'
+    size: '18.4 MB'
 
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
