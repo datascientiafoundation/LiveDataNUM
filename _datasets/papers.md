@@ -26,13 +26,6 @@ resources:
     size: '1.37 MB'
     modification_datetime: '25/04/2024'
   
-  - name: Journals
-    url: >-
-      https://research.num.edu.mn/api/du/v-journal
-    format: json
-    size: '507.6 KB'
-    modification_datetime: '25/04/2024'
-
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Digital University
