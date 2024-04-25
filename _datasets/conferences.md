@@ -10,12 +10,7 @@ resources:
     format: json
     size: '2.45 MB'
     modification_datetime: '25/04/2024'
-  - name: Conference papers
-    url: >-
-      https://research.num.edu.mn/api/du/paper-conference
-    format: json
-    size: '5.22 MB'
-    modification_datetime: '25/04/2024'
+  
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Digital University
