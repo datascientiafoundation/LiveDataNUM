@@ -1,23 +1,30 @@
 ---
 schema: default
-title: Research papers NUM
+title: Research papers
 organization: National University of Mongolia
 notes: <span style='color:salmon'>Data Source</span> - These cleaned and formatted datasets, created by the National University of Mongolia (NUM), include information about the research papers published by the National University of Mongolia, and their authors.
 
 resources:
-  - name: NUM papers
+  - name: Journal papers
     url: >-
-      TODO
+      https://research.num.edu.mn/api/du/paper-journals
     format: json
-    size: '7.3 MB'
-    modification_datetime: '15/04/2024'
+    size: '5.22 MB'
+    modification_datetime: '25/04/2024'
 
-  - name: NUM papers authors
+  - name: Paper authors
     url: >-
-      TODO
+      https://research.num.edu.mn/api/du/v-authors
     format: json
-    size: '2.0 MB'
-    modification_datetime: '15/04/2024'
+    size: '1.37 MB'
+    modification_datetime: '25/04/2024'
+  
+  - name: Journals
+    url: >-
+      https://research.num.edu.mn/api/du/v-journal
+    format: json
+    size: '507.6 KB'
+    modification_datetime: '25/04/2024'
 
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
