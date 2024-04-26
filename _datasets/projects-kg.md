@@ -4,7 +4,7 @@ title: Projects - KG
 organization: National University of Mongolia
 notes: <span style='color:RoyalBlue'>Graph</span> - These are Knowledge Graphs, created by the National University of Mongolia (NUM), that include information about the projects created and participated in by NUM.
 resources:
-  - name: Projects - KG
+  - name: Projects Overview - KG
     url: >-
       https://raw.githubusercontent.com/kde-milab/LiveDataDREP/main/Data%20Resources/project-overview-kg.ttl
     format: RDF-TTL

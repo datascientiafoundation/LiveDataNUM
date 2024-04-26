@@ -4,7 +4,7 @@ title: Projects
 organization: National University of Mongolia
 notes: <span style='color:salmon'>Data Source</span> - This is a cleaned and formatted dataset, created by the National University of Mongolia (NUM), that includes information about the projects created and participated in by NUM.
 resources:
-  - name: Projects
+  - name: Projects Overview
     url: >-
       https://project.num.edu.mn/api/du/project-overview
     format: json
