@@ -10,6 +10,14 @@ resources:
     format: json
     size: '9.6 MB'
     modification_datetime: '25/04/2024'
+
+  - name: Courses curriculm relations
+    url: >-
+      https://sisi.num.edu.mn/digital_num/api/package/curriculum-course
+    format: json
+    size: '11.8 MB'
+    modification_datetime: '25/04/2024'
+    note: 'This dataset is directly connected with the Curriculm catalog resource'
   
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:

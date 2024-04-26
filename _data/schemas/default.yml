@@ -115,6 +115,9 @@ resource_fields:
   - field_name: modification_datetime
     label: Modification Date Time
     datajson: modification_datetime
+  - field_name: note
+    label: Note
+    datajson: distribution.note
 
 organization_fields:
   - field_name: title
