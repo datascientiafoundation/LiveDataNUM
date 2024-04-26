@@ -1,17 +1,17 @@
 ---
 schema: default
-title: Journals NUM - KG
+title: Journals - KG
 organization: National University of Mongolia
 notes: <span style='color:RoyalBlue'>Graph</span> - This is a Knowledge Graph, created by the National University of Mongolia (NUM), that includes information about the research journals that the NUM considers for reasearch publications.
 resources:
-  - name: Journals NUM - KG
+  - name: Journals - KG
     url: >-
       https://raw.githubusercontent.com/kde-milab/LiveDataDREP/main/Data%20Resources/journal-kg.ttl
     format: RDF-TTL
     modification_datetime: '25/04/2024'
-    reference_ontology: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/NUM-DU-ontology/">NUM-DU-ontology</a>
-    reference_original_dataset: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/journals/">Journals NUM</a>
-    reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts NUM</a>
+    reference_ontology: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/NUM-DU-ontology/">DU ontology</a>
+    reference_original_dataset: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/journals/">Journals</a>
+    reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts</a>
     size: '4.0 MB'
 
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'

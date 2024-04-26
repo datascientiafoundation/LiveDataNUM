@@ -1,10 +1,10 @@
 ---
 schema: default
-title: Digital University Concepts NUM
+title: Digital University Concepts
 organization: National University of Mongolia
 notes: <span style='color:BlueViolet'>Language</span> - This is a language dataset collecting and describing the terms used into the Digital University data of the National University of Mongolia.
 resources:
-  - name: NUM Digital University Concepts NUM
+  - name: NUM Digital University Concepts
     url: >-
       https://github.com/kde-milab/LiveDataDREP/blob/main/Language%20Resources/DU-NUM%20Language.csv
     format: csv
