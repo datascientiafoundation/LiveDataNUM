@@ -7,16 +7,22 @@ resources:
   - name: Curriculum - KG
     url: >-
       https://raw.githubusercontent.com/kde-milab/LiveDataDREP/main/Data%20Resources/curriculumdata-kg.ttl
-    format: json
+    format: RDF-TTL
     size: '467.3 KB'
     modification_datetime: '25/04/2024'
+    reference_ontology: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/NUM-DU-ontology/">DU ontology</a>
+    reference_original_dataset: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/courses/">Curriculum</a>
+    reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts</a>
 
   - name: Programs - KG
     url: >-
       https://raw.githubusercontent.com/kde-milab/LiveDataDREP/main/Data%20Resources/programdata-kg.ttl
-    format: json
+    format: RDF-TTL
     size: '983.2 KB'
     modification_datetime: '25/04/2024'
+    reference_ontology: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/NUM-DU-ontology/">DU ontology</a>
+    reference_original_dataset: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/courses/">Programs</a>
+    reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts</a>
   
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:

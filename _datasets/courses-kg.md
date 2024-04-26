@@ -23,7 +23,7 @@ resources:
     reference_original_dataset: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/courses/">Courses curriculm relations</a>
     reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts</a>
     size: '2.5 MB'
-    note: 'This graph dataset is directly connected with the Curriculm catalog resource'
+    note: 'This graph dataset is directly connected with the <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/curriculm-program-kg/">Curriculum & Programs - KG</a> catalog resource'
 
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:

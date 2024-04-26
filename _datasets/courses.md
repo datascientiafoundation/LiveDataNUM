@@ -17,7 +17,7 @@ resources:
     format: json
     size: '11.8 MB'
     modification_datetime: '25/04/2024'
-    note: 'This dataset is directly connected with the Curriculm catalog resource'
+    note: 'This dataset is directly connected with the <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/curriculum-program/">Curriculum & Programs</a> catalog resource'
   
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
