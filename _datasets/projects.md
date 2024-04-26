@@ -11,7 +11,7 @@ resources:
     size: '4.8 MB'
     modification_datetime: '25/04/2024'
 
-    - name: Projects Members
+  - name: Projects Members
     url: >-
       https://project.num.edu.mn/api/du/project-member-sisi
     format: json
