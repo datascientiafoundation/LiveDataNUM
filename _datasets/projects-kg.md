@@ -34,6 +34,16 @@ resources:
     reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts</a>
     size: '841.5 KB'
 
+  - name: Projects Finance - KG
+    url: >-
+      https://raw.githubusercontent.com/kde-milab/LiveDataDREP/main/Data%20Resources/project-finance-kg.ttl
+    format: RDF-TTL
+    modification_datetime: '25/04/2024'
+    reference_ontology: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/NUM-DU-ontology/">DU ontology</a>
+    reference_original_dataset: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/projects/">Project Finance</a>
+    reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts</a>
+    size: '120.4 KB'
+
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Digital University

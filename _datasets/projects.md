@@ -18,11 +18,18 @@ resources:
     size: '2.2 MB'
     modification_datetime: '25/04/2024'
 
-  - name: Projects keywords
+  - name: Projects Keywords
     url: >-
       https://project.num.edu.mn/api/du/project-keywords
     format: json
     size: '277.2 KB'
+    modification_datetime: '25/04/2024'
+
+  - name: Projects Finance
+    url: >-
+      https://project.num.edu.mn/api/du/project-finance
+    format: json
+    size: '57.8 KB'
     modification_datetime: '25/04/2024'
   
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
