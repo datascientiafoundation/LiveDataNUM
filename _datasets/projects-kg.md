@@ -24,6 +24,16 @@ resources:
     reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts</a>
     size: '2.7 MB'
 
+  - name: Projects Keywords - KG
+    url: >-
+      https://raw.githubusercontent.com/kde-milab/LiveDataDREP/main/Data%20Resources/project-keywords-kg.ttl
+    format: RDF-TTL
+    modification_datetime: '25/04/2024'
+    reference_ontology: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/NUM-DU-ontology/">DU ontology</a>
+    reference_original_dataset: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/projects/">Project Keywords</a>
+    reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts</a>
+    size: '841.5 KB'
+
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Digital University
