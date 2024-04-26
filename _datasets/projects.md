@@ -11,7 +11,12 @@ resources:
     size: '4.8 MB'
     modification_datetime: '25/04/2024'
 
-
+    - name: Projects Members
+    url: >-
+      https://project.num.edu.mn/api/du/project-member-sisi
+    format: json
+    size: '2.2 MB'
+    modification_datetime: '25/04/2024'
   
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
