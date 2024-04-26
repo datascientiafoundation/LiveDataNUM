@@ -14,7 +14,7 @@ resources:
     reference_domain_language: <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/DU-NUM-language/">Digital University Concepts</a>
     size: '18.4 MB'
 
-  - name: Courses - KG
+  - name: Courses curriculm relations - KG
     url: >-
       https://raw.githubusercontent.com/kde-milab/LiveDataDREP/main/Data%20Resources/course-curriculum-kg.ttl
     format: RDF-TTL
