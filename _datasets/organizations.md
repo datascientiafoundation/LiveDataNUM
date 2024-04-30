@@ -6,7 +6,7 @@ notes: <span style='color:salmon'>Data Source</span> - This is a cleaned and for
 resources:
   - name: Organizations
     url: >-
-      https://sisi.num.edu.mn/digital_num/api/package/baiguullagiin-butetsuruunii-medeelel
+      https://sisi.num.edu.mn/digital_num/api/package/baiguullagiin-butets
     format: json
     size: '48.2 KB'
     modification_datetime: '25/04/2024'
