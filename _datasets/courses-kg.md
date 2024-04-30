@@ -25,7 +25,7 @@ resources:
     size: '2.5 MB'
     note: 'This graph dataset is directly connected with the <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/curriculum-program-kg/">Curriculum & Programs - KG</a> catalog resource'
 
-  - name: Courses - KG
+  - name: Courses schedule- KG
     url: >-
       https://raw.githubusercontent.com/kde-milab/LiveDataDREP/main/Data%20Resources/course-schedule-kg.ttl
     format: RDF-TTL
