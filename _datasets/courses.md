@@ -18,6 +18,13 @@ resources:
     size: '11.8 MB'
     modification_datetime: '25/04/2024'
     note: 'This dataset is directly connected with the <a style=text-decoration:underline href="https://datascientiafoundation.github.io/LiveDataNUM/datasets/curriculum-program/">Curriculum & Programs</a> catalog resource'
+
+  - name: Courses schedule
+    url: >-
+      https://sisi.num.edu.mn/digital_num/api/package/hicheeliin-huvaari
+    format: json
+    size: '5.9 MB'
+    modification_datetime: '25/04/2024'
   
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
